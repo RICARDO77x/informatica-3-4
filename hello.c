@@ -2,5 +2,19 @@
 
 int main(void)
 {
-    printf("Hello Ricardo! \n");
+    char name[50];
+    printf("Enter your name:");
+    scanf("%s",&name);
+    printf("Hello %s!\n",name);
+
+    int age;
+    printf("Enter your age: ");
+    scanf("%d", &age);
+    printf("Number = %d",age);
+
+
+
+
+
+
 }
