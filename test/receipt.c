@@ -19,7 +19,7 @@ scanf("%d", &total);
 printf("el chambaso\n");
 printf("------------------------\n");
 
-printf("Item:tortas Chuma\n");
+printf("Item:tortas\n");
 printf("Price $%.2f\n",price1);
 printf("total %d\n",quantity1);
 printf("select %c\n",select1);
