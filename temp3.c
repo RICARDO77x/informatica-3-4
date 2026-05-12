@@ -28,4 +28,7 @@ f_to_c();
 
 
 
-
+printf("Temperature Convert \n");
+printf("1. Celsius to Fahrenheit \n");
+printf("2. Fahrenheit to Celsius\n");
+printf("Enter your option: ");
