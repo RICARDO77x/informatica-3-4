@@ -41,3 +41,5 @@ void f_to_c(void){
     // Error 3 corregido: Se invirtieron las variables en el printf
     printf("%.2f°F = %.2f°C \n", f, c); 
 }
+
+
